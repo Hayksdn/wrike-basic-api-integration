@@ -21,8 +21,3 @@ This project connects to the Wrike API, fetches all tasks using a **Permanent Ac
 -- npm run i
 -- npm run start
 
-1. **Clone the repo**
-
-```bash
-git clone https://github.com/YOUR_USERNAME/wrike-basic-api-integration.git
-cd wrike-basic-api-integration
