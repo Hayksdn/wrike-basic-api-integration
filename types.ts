@@ -29,7 +29,9 @@ export type WrikeTaskResponse = {
 export type MappedTask = {
   id: string;
   name: string;
+  assignees: string[];
   status: string;
+  collections: string[];
   created_at: string;
   updated_at: string;
   ticket_url: string;
